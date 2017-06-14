@@ -1,0 +1,47 @@
+h3{
+    color: #ff1994;
+    font-family: "Open Sans Condensed", sans-serif;
+    text-transform: uppercase;
+}
+nav{
+    border-top: 1px solid #e80e82;
+    border-bottom: 1px solid #e80e82;
+}
+
+ul.menu{
+    list-style: none;
+}
+
+a.menu{
+    color: #ed2d73;
+    font-family: "Open Sans Condensed",sans-serif;
+    text-transform: uppercase;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+/* quilombo 
+.slide{
+    border: .5em solid #ed9ce3;
+    width: 600px;
+    height: 300px;
+    margin: 2% auto;
+    border-radius: .5em;
+    box-shadow: 10px 10px 5px #888;
+    position: relative;
+}
+ 
+.slide img{
+    width: 600px;
+    height: 300px;
+    position: absolute;
+}
+ 
+.slide .img2, .slide .img3 {
+    display: none;
+}
+
+figure{
+    margin: 0;
+}
+*/
